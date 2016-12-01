@@ -1,3 +1,14 @@
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+
+
+
+
+添加b.txt文件的内容
+bbbbbbb
+bbbbbbb
+bbbbbbb
+
+
